@@ -62,4 +62,6 @@ What you should learn from this project:
 ---
 
 ## Author
+
+* This project was developed by:
 * **Purity Turunen** - [TurunenP]( https://github.com/TurunenP)
