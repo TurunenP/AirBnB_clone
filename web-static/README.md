@@ -63,5 +63,8 @@ What you should learn from this project:
 
 ## Author
 
-* This project was developed by:
+ This project was developed by:
 * **Purity Turunen** - [TurunenP]( https://github.com/TurunenP)
+
+# LISENCE
+This project is licensed under the MIT License.
