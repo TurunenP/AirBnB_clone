@@ -246,3 +246,8 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
     <li><a href="https://github.com/TurunenP">Github</a></li>
     </ul>
 </details>
+
+### License
+<details>
+    <summary>This project is licensed under the MIT License</summary>
+</details>
