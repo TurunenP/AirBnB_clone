@@ -66,5 +66,5 @@ What you should learn from this project:
  This project was developed by:
 * **Purity Turunen** - [TurunenP]( https://github.com/TurunenP)
 
-# LISENCE
+## LISENCE
 This project is licensed under the MIT License.
